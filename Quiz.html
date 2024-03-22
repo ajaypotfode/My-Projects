@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quizeApp</title>
+    <link rel="stylesheet" href="./Quiz.css">
+</head>
+<body>
+    <div id="homeFrame" class="frames">
+        <h4>select Subject</h4>
+        <button class="subject" onclick="getSubject('html')">HTML</button>
+        <button class="subject" onclick="getSubject('css')">CSS</button>
+        <button class="subject" onclick="getSubject('js')">JS</button>
+    </div>
+    <div id="frame" class="frames">
+        <div id="que">get your question</div>
+        <div class="option">
+            <input type="text" class="ans"  onclick="getAns('a',0)" readonly disabled>
+            <input type="text" class="ans"  onclick="getAns('b',1)" readonly disabled>
+            <input type="text" class="ans"  onclick="getAns('c',2)" readonly disabled>
+            <input type="text" class="ans"  onclick="getAns('d',3)" readonly disabled>
+        </div>
+        <div class="btns">
+            <button class="button" onclick="getNext()" id="next">Next</button>
+            <button class="button" onclick="getScore()" id="scorebtn">Score</button>
+        </div>
+        <span id="count"></span>
+    </div>
+    <div id="scoreFrame" class="frames">
+        <p id="score"></p>
+        <hr style="width: 80%;">
+        <!-- <div class="btns"> -->
+            <button id="restart" class="button" onclick="getRestart()">Start Again</button>
+            <button class="button" id="back" onclick="getBack()">Home</button>
+        <!-- </div> -->
+    </div>    
+    <script src="./Quiz.js"></script>
+</body>
+</html>

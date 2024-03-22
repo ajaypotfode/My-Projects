@@ -1,0 +1,236 @@
+{
+    "html": [
+        [
+            [
+                [
+                    "Q 1. Which tag is used to define the hyperlink"
+                ],
+                [
+                    "a) <a>",
+                    "b) <h>",
+                    "c) <link>",
+                    "d) <href>"
+                ]
+            ],
+            [
+                [
+                    "Q 2. what is the correct HTML tag for break the line"
+                ],
+                [
+                    "a) <lb>",
+                    "b) <br>",
+                    "c) <break>",
+                    "d) <line>"
+                ]
+            ],
+            [
+                [
+                    "Q 3.what is the smallest header in HTML by default"
+                ],
+                [
+                    "a) h1",
+                    "b) h2",
+                    "c) h4",
+                    "d) h6"
+                ]
+            ],
+            [
+                [
+                    "Q 4. HTML tags represent by"
+                ],
+                [
+                    "a) { }",
+                    "b) ( )",
+                    "c) < >",
+                    "d) [ ]"
+                ]
+            ],
+            [
+                [
+                    "Q 5. What is the correct syntax to write an HTML comment"
+                ],
+                [
+                    "a) <--comment-->",
+                    "b) //comment",
+                    "c) #comment",
+                    "d) /*comment*/"
+                ]
+            ],
+            [
+                [
+                    "Q6. Which attribute is used to provide a unique name to an HTML element"
+                ],
+                [
+                    "a) class",
+                    "b) type",
+                    "c) id",
+                    "d) all"
+                ]
+            ]
+        ],
+        [
+            "a",
+            "b",
+            "d",
+            "c",
+            "a",
+            "c"
+        ]
+    ],
+    "css": [
+        [
+            [
+                [
+                    "Q 1. CSS stands for"
+                ],
+                [
+                    "a) Creative Style Sheet",
+                    "b) Creative Style Sheet",
+                    "c) Cascading Style Sheet",
+                    "d) Colorful Style Sheet "
+                ]
+            ],
+            [
+                [
+                    "Q 2. In how many ways can CSS be written in?"
+                ],
+                [
+                    "a) 1",
+                    "b) 3",
+                    "c) 2",
+                    "d) 4"
+                ]
+            ],
+            [
+                [
+                    "Q 3. Which HTML tag is used to declare internal CSS"
+                ],
+                [
+                    "a) <style>",
+                    "b) <link>",
+                    "c) <Script>",
+                    "d) <a>"
+                ]
+            ],
+            [
+                [
+                    "Q 4. Which Symbol is used to declare id"
+                ],
+                [
+                    "a) .",
+                    "b) ^",
+                    "c) #",
+                    "d) !"
+                ]
+            ],
+            [
+                [
+                    "Q 5. Which of the following are parts of CSS box model"
+                ],
+                [
+                    "a) margins",
+                    "b) borders",
+                    "c) padding",
+                    "d) all"
+                ]
+            ],
+            [
+                [
+                    "Q6. The CSS property used to make the text bold"
+                ],
+                [
+                    "a) font-weight",
+                    "b) weight",
+                    "c) font-size",
+                    "d) font-style"
+                ]
+            ]
+        ],
+        [
+            "c",
+            "b",
+            "a",
+            "c",
+            "d",
+            "a"
+        ]
+    ],
+    "js": [
+        [
+            [
+                [
+                    "Q 1. java Script is an......language "
+                ],
+                [
+                    "a) Object oriented",
+                    "b) Object Based",
+                    "c) Precedural",
+                    "d) none of the above "
+                ]
+            ],
+            [
+                [
+                    "Q 2. How to stop Interval timer in js"
+                ],
+                [
+                    "a) intervalOver",
+                    "b) clearTimer",
+                    "c) clearInterval",
+                    "d) all"
+                ]
+            ],
+            [
+                [
+                    "Q 3.what is the type of NaN "
+                ],
+                [
+                    "a) object",
+                    "b) number",
+                    "c) String",
+                    "d) undefined"
+                ]
+            ],
+            [
+                [
+                    "Q 4. Which of the following is not a java Script variable"
+                ],
+                [
+                    "a) var",
+                    "b) let",
+                    "c) const",
+                    "d) int"
+                ]
+            ],
+            [
+                [
+                    "Q 5. what is the output of ('1'===true)"
+                ],
+                [
+                    "a) true",
+                    "b) false",
+                    "c) error",
+                    "d) undefined"
+                ]
+            ],
+            [
+                [
+                    "Q6. which built-in method returns the length of string"
+                ],
+                [
+                    "a) length()",
+                    "b) getSize()",
+                    "c) size()",
+                    "d) none of the above"
+                ]
+            ]
+        ],
+        [
+            "a",
+            "c",
+            "b",
+            "d",
+            "b",
+            "a"
+        ]
+    ]
+}
